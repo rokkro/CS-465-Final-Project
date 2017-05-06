@@ -4,6 +4,7 @@ Spring 2017 Final Project
 
 Run in Visual Studio.
 If 2015 or greater, add legacy_stdio_definitions.lib; to Project Properties/Linker/Input/Additional Dependencies
+
 Include Glee.c, gltools.cpp, and math3d.cpp along with the main .cpp file.
 
 
